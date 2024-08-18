@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:mvc="http://www.springframework.org/schema/mvc"
+xmlns:context="http://www.springframework.org/schema/context"
+xsi:schemaLocation="
+        http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+        
+        
+        
+
+<!-- <bean class="springioc.Student" id="student">
+
+<constructor-arg name="id" value="1"></constructor-arg>
+<constructor-arg name="name" value="Rohan"></constructor-arg>
+<constructor-arg name="contact" value="676543456"></constructor-arg> 
+
+<property name="id" value ="1"></property>
+<property name="name" value ="hp"></property>
+<property name="contact" value ="9545577755"></property>
+<property name="laptop" ref ="laptop"></property>
+ 
+
+</bean> -->
+
+<!-- <bean class="springioc.Laptop" id="laptop">
+
+<property name="id" value = "1"></property>
+<property name="brand" value = "asus"></property>
+<property name="price" value = "56000"></property>
+
+
+
+
+
+</bean> -->
+
+
+
+
+
+
+</beans> 
